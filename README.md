@@ -1,9 +1,7 @@
-# Example Mod
+# Auto Totem Mod
 
-## Setup
+A small client-side Fabric mod that automatically swaps a Totem of Undying from the player inventory into the offhand when needed.
 
-For setup instructions, please see the [Fabric Documentation page](https://docs.fabricmc.net/develop/getting-started/creating-a-project#setting-up) related to the IDE that you are using.
+## Current target
 
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+This branch targets Minecraft 26.2 with Fabric Loader 0.19.3+ and Java 21+.
